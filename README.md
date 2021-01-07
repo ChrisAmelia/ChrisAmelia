@@ -1,5 +1,7 @@
 [![ChrisAmelia's github stats](https://github-readme-stats.vercel.app/api?username=ChrisAmelia&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAmelia&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ChrisAmelia/ChrisAmelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
