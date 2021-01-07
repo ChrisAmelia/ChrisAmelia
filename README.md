@@ -2,3 +2,5 @@
    
 I’m currently learning [go](https://github.com/golang/go) and developing the game [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) in that language.  
 Any help will be greatly appreciated regarding that project: be it golang conventions, syntax or any remarks.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChrisAmelia&repo=invaders)](https://github.com/ChrisAmelia/invaders)
