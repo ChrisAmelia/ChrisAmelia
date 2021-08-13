@@ -6,6 +6,7 @@ I'm a :
 - Working at [Open Pricer](https://www.openpricer.com/),
   - Developing **REST API** with **[Spring](https://spring.io/)**.
   - Performing testing with **[JUnit](https://junit.org/junit5/)**, **[Mockito](https://site.mockito.org/)** and **[Selenium](https://www.selenium.dev/documentation/guidelines/on_test_automation/)**.
+  - **[Neovim enthusiast](https://neovim.io/)**.
 
 ___
 
