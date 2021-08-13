@@ -1,6 +1,6 @@
 ### Christopher
 
-I'm a :
+I am a:
 
 - **Java Developer** (8 & 11).
 - Working at [Open Pricer](https://www.openpricer.com/),
