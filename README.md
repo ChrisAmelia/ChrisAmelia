@@ -10,9 +10,11 @@ I am a:
 
 I also speak:
 
-- :uk: English (B2)
-- :fr: French (C2) 
-- :jp: Japanese (A2)
+|      | Language | CECRL |
+|------|----------|-------|
+| :uk: | English  | B2    |
+| :fr: | French   | C2    |
+| :jp: | Japanese | A2    |
 
 ___
 
