@@ -8,6 +8,12 @@ I am a:
   - Performing testing with **[JUnit](https://junit.org/junit5/)**, **[Mockito](https://site.mockito.org/)** and **[Selenium](https://www.selenium.dev/documentation/guidelines/on_test_automation/)**.
 - **[Neovim enthusiast](https://neovim.io/)**.
 
+I also speak:
+
+- :uk: English (B2)
+- :fr: French (C2) 
+- :jp: Japanese (A2)
+
 ___
 
 
