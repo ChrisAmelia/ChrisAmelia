@@ -10,7 +10,7 @@ I am a:
 
 I also speak:
 
-|      | Language | CECRL |
+|      | Language | CEFRL |
 |------|----------|-------|
 | :uk: | English  | B2    |
 | :fr: | French   | C2    |
