@@ -8,6 +8,10 @@ I am a:
   - Performing testing with **[JUnit](https://junit.org/junit5/)**, **[Mockito](https://site.mockito.org/)** and **[Selenium](https://www.selenium.dev/documentation/guidelines/on_test_automation/)**.
 - **[Neovim enthusiast](https://neovim.io/)**.
 
+### Contact me
+
+* Email: chrisamelia.dev@gmail.com
+
 I also speak:
 
 |      | Language | CEFRL |
