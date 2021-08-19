@@ -10,7 +10,7 @@ I am a:
 
 ### Contact me
 
-* Email: chrisamelia.dev@gmail.com
+* Email: chris@objectdev.io
 
 I also speak:
 
