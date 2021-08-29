@@ -23,8 +23,6 @@ I also speak:
 ___
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChrisAmelia&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![ChrisAmelia's github stats](https://github-readme-stats.vercel.app/api?username=ChrisAmelia&count_private=true&show_icons=true&theme=react&line_height=40)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAmelia&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
