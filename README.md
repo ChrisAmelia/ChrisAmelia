@@ -1,13 +1,3 @@
-### Christopher
-
-I am a:
-
-- **Java Developer** (8 & 11).
-- Working at [Open Pricer](https://www.openpricer.com/),
-  - Developing **REST APIs** with **[Spring](https://spring.io/)**.
-  - Performing testing with **[JUnit](https://junit.org/junit5/)**, **[Mockito](https://site.mockito.org/)** and **[Selenium](https://www.selenium.dev/documentation/guidelines/on_test_automation/)**.
-- **[Neovim enthusiast](https://neovim.io/)**.
-
 ### Contact me
 
 * Email: chris@objectdev.io
