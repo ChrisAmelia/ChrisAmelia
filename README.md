@@ -4,7 +4,7 @@
 
 I also speak:
 
-|      | Language | CECRL |
+|      | Language | CEFR  |
 |------|----------|:-----:|
 | :uk: | English  |   B2  |
 | :fr: | French   |   C2  |
