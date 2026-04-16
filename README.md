@@ -12,13 +12,13 @@ I also speak:
 
 ___
 
-
-[![ChrisAmelia's github stats](https://github-readme-stats.vercel.app/api?username=ChrisAmelia&count_private=true&show_icons=true&theme=react&line_height=40)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAmelia&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+I’m currently learning **[elixir]([https://github.com/golang/go](https://elixir-lang.org/))** and implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/), repo can be found here: https://codeberg.org/ChrisAmelia/educational_lsp
 
 ___
 
 
-I’m currently learning **[elixir]([https://github.com/golang/go](https://elixir-lang.org/))** and implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/), repo can be found here: https://codeberg.org/ChrisAmelia/educational_lsp
+[![ChrisAmelia's github stats](https://github-readme-stats.vercel.app/api?username=ChrisAmelia&count_private=true&show_icons=true&theme=react&line_height=40)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAmelia&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ___
 
