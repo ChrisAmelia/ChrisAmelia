@@ -12,7 +12,7 @@ I also speak:
 
 ___
 
-I’m currently learning **[elixir]([https://github.com/golang/go](https://elixir-lang.org/))** and implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/), repo can be found here: https://codeberg.org/ChrisAmelia/educational_lsp
+I have implemented the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/) in **Elixir** for learning purpose, repo: https://codeberg.org/ChrisAmelia/educational_lsp
 
 ___
 
@@ -22,6 +22,6 @@ ___
 
 ___
 
-Also tried myself in **machine learning** as a pastime, see following project:
+Also tried myself in **machine learning** as a pastime, see the following project:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChrisAmelia&repo=DataMiningVideoGames&theme=monokai)](https://github.com/ChrisAmelia/DataMiningVideoGames)
