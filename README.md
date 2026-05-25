@@ -20,6 +20,4 @@ ___
 
 ___
 
-Also tried myself in **machine learning** as a pastime, see the following project:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChrisAmelia&repo=DataMiningVideoGames&theme=monokai)](https://github.com/ChrisAmelia/DataMiningVideoGames)
+Also tried myself in **machine learning** as a pastime, https://github.com/ChrisAmelia/DataMiningVideoGames
