@@ -16,8 +16,7 @@ I have implemented the [Language Server Protocol](https://microsoft.github.io/la
 
 ___
 
-
-[![ChrisAmelia's github stats](https://github-readme-stats.vercel.app/api?username=ChrisAmelia&count_private=true&show_icons=true&theme=react&line_height=40)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAmelia&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![ChrisAmelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisAmelia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ___
